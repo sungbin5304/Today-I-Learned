@@ -20,18 +20,18 @@
 # Android 
 ## 라이브러리
 - [ ] OkHttp
-- [ ] Retrofit
+- [x] Retrofit
 - [ ] Coroutine
-- [ ] RxJava
-- [ ] RxKotlin
-- [ ] RxAndroid
+- [x] RxJava
+- [x] RxKotlin
+- [x] RxAndroid
 - [ ] Dagger
 - [ ] Koin
 - [ ] Hilt
 - [ ] Paging
 - [ ] Realm
 - [ ] LiveData
-- [ ] DataBinding
+- [x] DataBinding
 - [ ] Room
 
 ## 아키텍처 패턴
