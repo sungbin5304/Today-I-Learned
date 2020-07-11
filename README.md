@@ -16,6 +16,8 @@
 - [ ] Swift
 - [ ] Rust
 - [ ] Dart (flutter)
+- [ ] Vue
+- [ ] React
 
 # Android 
 ## 라이브러리
