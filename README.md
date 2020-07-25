@@ -27,9 +27,9 @@
 - [x] RxJava
 - [x] RxKotlin
 - [x] RxAndroid
-- [x] Dagger
+- [x] [Dagger](https://github.com/sungbin5304/Dagger2-SimpleExample)
 - [ ] Koin
-- [x] Hilt
+- [x] [Hilt](https://github.com/sungbin5304/Hilt-SimpleExample)
 - [x] Paging
 - [ ] Realm
 - [ ] LiveData
