@@ -21,20 +21,20 @@
 
 # Android 
 ## 라이브러리
-- [x] OkHttp
-- [x] Retrofit
-- [x] Coroutine
-- [x] RxJava
-- [x] RxKotlin
-- [x] RxAndroid
+- [x] [OkHttp](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/module/GeniusClient.kt)
+- [x] [Retrofit](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/module/GeniusClient.kt)
+- [x] [Coroutine](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/ui/fragment/search/SearchFragment.kt)
+- [x] [RxJava](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/ui/fragment/search/SearchFragment.kt)
+- [x] [RxKotlin](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/ui/fragment/search/SearchFragment.kt)
+- [x] [RxAndroid](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/ui/fragment/search/SearchFragment.kt)
 - [x] [Dagger](https://github.com/sungbin5304/Dagger2-SimpleExample)
 - [ ] Koin
 - [x] [Hilt](https://github.com/sungbin5304/Hilt-SimpleExample)
-- [x] Paging
+- [x] [Paging](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/adapter/ArtistPagingAdapter.kt)
 - [ ] Realm
-- [ ] LiveData
-- [x] DataBinding
-- [ ] Room
+- [x] [LiveData](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/ui/fragment/search/SearchFragment.kt)
+- [x] [DataBinding](https://github.com/sungbin5304/MusicInformator/blob/master/app/src/main/kotlin/com/sungbin/musicinformator/adapter/ArtistPagingAdapter.kt)
+- [x] [Room](https://github.com/sungbin5304/MusicInformator/tree/master/app/src/main/kotlin/com/sungbin/musicinformator/database)
 
 ## 아키텍처 패턴
 - [x] [MVVM](https://github.com/sungbin5304/SpotiPlayer)
