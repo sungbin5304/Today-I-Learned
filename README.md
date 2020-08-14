@@ -16,8 +16,10 @@
 - [x] Swift
 - [ ] Rust
 - [x] Dart (flutter)
-- [ ] Vue
+- [ ] Vue.js
+- [ ] Next.js
 - [x] React
+- [ ] HTML
 
 # Android 
 ## 라이브러리
