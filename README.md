@@ -2,7 +2,8 @@
 
 -----
 
-> goto [Android-Interview-QnA-2020](https://github.com/sungbin5304/Android-Interview-QnA-2020)
+# This repo is Deprecated.
+# goto [Android-Interview-Study-2020](https://github.com/sungbin5304/Android-Interview-Study-2020)
 
 # Languages
 - [x] [JavaScript](https://github.com/sungbin5304/KUtils)
